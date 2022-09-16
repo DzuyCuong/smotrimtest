@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://www.tricolor.tv/upload/iblock/90a/90a719bdd204f7017bcb67b5814d8fa0.png",Первый канал
+http://194.11.28.2:8000/udp/235.82.119.1:2015
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://www.tricolor.tv/upload/iblock/529/5292c2bb3ea6c18c9d164a80cba280dd.png",Россия 1
+http://194.11.28.2:8000/udp/235.82.119.2:2015
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://www.tricolor.tv/upload/iblock/5ab/5abac8f16eff99857288c9779fb6c88f.png",Матч!
+http://194.11.28.2:8000/udp/235.82.119.3:2015
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://www.tricolor.tv/upload/iblock/c76/c76ad58310976501a58b0da96ee5d7ad.png",НТВ
+http://194.11.28.2:8000/udp/235.82.119.4:2015
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://www.tricolor.tv/upload/iblock/8d4/8d4b68a8735c782c00cef3030ae645ac.png",Пятый Канал
+http://194.11.28.2:8000/udp/235.82.119.5:2015
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://www.tricolor.tv/upload/iblock/8c9/8c9c1c61f4563aa5694a6760920f9b4e.png",Культура
+http://194.11.28.2:8000/udp/235.82.119.6:2015
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://www.tricolor.tv/upload/iblock/978/9787ae8f432384603573f4380f2fda07.png",Россия 24
+http://194.11.28.2:8000/udp/235.82.119.7:2015
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://www.tricolor.tv/upload/iblock/7e1/7e14b23586f6281c36f7ae02178aa78b.png",Карусель
+http://194.11.28.2:8000/udp/235.82.119.8:2015
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://www.tricolor.tv/upload/iblock/95d/95d9bc867b80e46717168ca74385b8f1.png",ОТР
+http://194.11.28.2:8000/udp/235.82.119.9:2015
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://www.tricolor.tv/upload/iblock/32a/32a682e6addc094d69337462b30be711.png",ТВ Центр
+http://194.11.28.2:8000/udp/235.82.119.10:2015
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://www.tricolor.tv/upload/iblock/9ed/9ede7e685ab29b86cb2ec97912d286e9.png",РЕН ТВ
+http://194.11.28.2:8000/udp/235.82.119.11:2015
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://www.tricolor.tv/upload/iblock/cc7/cc7e589c41094c6497d1d9d376c9e0bf.jpg",Спас ТВ
+http://194.11.28.2:8000/udp/235.82.119.12:2015
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://www.tricolor.tv/upload/iblock/9b9/9b9e33b72279b8232e0dbc9d7b83567b.png",СТС
+http://194.11.28.2:8000/udp/235.82.119.13:2015
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://www.tricolor.tv/upload/iblock/b11/b11521fc7e61cde65c92b2dbf7f73cee.png",Домашний
+http://194.11.28.2:8000/udp/235.82.119.14:2015
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://www.tricolor.tv/upload/iblock/050/050e051d79a2e945a7c9dd820dea66c8.png",ТВ-3
+http://194.11.28.2:8000/udp/235.82.119.15:2015
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://www.tricolor.tv/upload/iblock/c92/c928efdb30bcfdfe355933d86704f2a2.png",Пятница
+http://194.11.28.2:8000/udp/235.82.119.16:2015
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://www.tricolor.tv/upload/iblock/b9c/b9c231ec1c73dfc7c9fc7219b822ff2b.png",Звезда
+http://194.11.28.2:8000/udp/235.82.119.17:2015
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://www.tricolor.tv/upload/iblock/df3/df3b7211ab63303cfa5fa29c874304b3.png",МИР
+http://194.11.28.2:8000/udp/235.82.119.18:2015
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://www.tricolor.tv/upload/iblock/c6d/c6d6cc6f2357935838dd50d883287784.png",ТНТ
+http://194.11.28.2:8000/udp/235.82.119.19:2015
+#EXTINF:-1 group-title="Общероссийские" tvg-logo="https://www.tricolor.tv/upload/iblock/03c/03c72ec376a98b5f672feb544b82c91d.png",МУЗ-ТВ
+http://194.11.28.2:8000/udp/235.82.119.20:2015
+#EXTINF:-1 group-title="Смотрим:Тестовый канал" tvg-logo="https://cdn.discordapp.com/attachments/992680579365617707/1020212686174289951/smotrim.png","Смотрим:Тестовый канал 1
+https://radio-live-mg.rtr-vesti.ru/live/givc2.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Смотрим:Тестовый канал" tvg-logo="https://cdn.discordapp.com/attachments/992680579365617707/1020212686174289951/smotrim.png",Смотрим:Тестовый канал 2
+https://radio-live-mg.rtr-vesti.ru/live/givc3.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Смотрим:Тестовый канал" tvg-logo="https://cdn.discordapp.com/attachments/992680579365617707/1020212686174289951/smotrim.png",Смотрим:Тестовый канал 3
+https://radio-live-mg.rtr-vesti.ru/live/givc4.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Смотрим:Тестовый канал" tvg-logo="https://cdn.discordapp.com/attachments/992680579365617707/1020212686174289951/smotrim.png",Смотрим:Тестовый канал 4
+https://radio-live-mg.rtr-vesti.ru/live/givc5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Смотрим:Тестовый канал" tvg-logo="https://cdn.discordapp.com/attachments/992680579365617707/1020212686174289951/smotrim.png",Смотрим:Тестовый канал 5
+https://radio-live-mg.rtr-vesti.ru/live/givc6.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="Смотрим:Тестовый канал" tvg-logo="https://cdn.discordapp.com/attachments/992680579365617707/1020212686174289951/smotrim.png",Смотрим:Тестовый канал 6
+https://radio-live-mg.rtr-vesti.ru/live/givc8.smil/chunklist_b2800000.m3u8
+#EXTINF:-1 group-title="Смотрим:Тестовый канал" tvg-logo="https://cdn.discordapp.com/attachments/992680579365617707/1020212686174289951/smotrim.png",Смотрим:Тестовый канал 7
+https://radio-live-mg.rtr-vesti.ru/live/givc10.smil/chunklist_b2600000.m3u8
+#EXTINF:-1 group-title="Смотрим:Тестовый канал" tvg-logo="https://cdn.discordapp.com/attachments/992680579365617707/1020212686174289951/smotrim.png",Смотрим:Тестовый канал 8
+https://radio-live-mg.rtr-vesti.ru/hls2/givc1_hd/playlist_6.m3u8
+#EXTINF:-1 group-title="Смотрим:Тестовый канал" tvg-logo="https://cdn.discordapp.com/attachments/992680579365617707/1020212686174289951/smotrim.png",Смотрим:Тестовый канал 9
+https://radio-live-mg.rtr-vesti.ru/hls2/givc11_hd/playlist_6.m3u8
+#EXTINF:-1 group-title="Смотрим:Тестовый канал" tvg-logo="https://cdn.discordapp.com/attachments/992680579365617707/1020212686174289951/smotrim.png",Смотрим:Тестовый канал 10
+https://radio-live-mg.rtr-vesti.ru/hls2/givc16/playlist_6.m3u8
+#EXTINF:-1 group-title="Смотрим:Тестовый канал" tvg-logo="https://cdn.discordapp.com/attachments/992680579365617707/1020212686174289951/smotrim.png",Смотрим:Тестовый канал 11
+https://radio-live-mg.rtr-vesti.ru/hls2/givc17/playlist_6.m3u8
+#EXTINF:-1 group-title="Смотрим:Тестовый канал" tvg-logo="https://cdn.discordapp.com/attachments/992680579365617707/1020212686174289951/smotrim.png",Смотрим:Тестовый канал 12
+https://radio-live-mg.rtr-vesti.ru/hls2/givc18/playlist_6.m3u8
+#EXTINF:-1 group-title="Смотрим:Тестовый канал" tvg-logo="https://cdn.discordapp.com/attachments/992680579365617707/1020212686174289951/smotrim.png",Смотрим:Тестовый канал 13
+https://radio-live-mg.rtr-vesti.ru/hls2/givc19/playlist_6.m3u8
+#EXTINF:-1 group-title="Смотрим:Тестовый канал" tvg-logo="https://cdn.discordapp.com/attachments/992680579365617707/1020212686174289951/smotrim.png",Смотрим:Тестовый канал 14
+https://radio-live-mg.rtr-vesti.ru/hls2/givc20/playlist_6.m3u8
+#EXTINF:-1 group-title="Смотрим:Тестовый канал" tvg-logo="https://cdn.discordapp.com/attachments/992680579365617707/1020212686174289951/smotrim.png",Смотрим:Тестовый канал 15
+https://radio-live-mg.rtr-vesti.ru/hls2/givc21/playlist_6.m3u8
+#EXTINF:-1 group-title="Смотрим:Тестовый канал" tvg-logo="https://cdn.discordapp.com/attachments/992680579365617707/1020212686174289951/smotrim.png",Смотрим:Тестовый канал 16
+https://radio-live-mg.rtr-vesti.ru/live/givc9.smil/chunklist_b2600000.m3u8
+#EXTINF:-1 group-title="Радиостанции" tvg-logo="https://www.tricolor.tv/upload/iblock/26d/26dafec5d7c1b918851f9493b53a003d.png",Вести ФМ
+http://194.11.28.2:8000/udp/235.82.119.101:2015
+#EXTINF:-1 group-title="Радиостанции" tvg-logo="https://www.tricolor.tv/upload/iblock/d12/d128bcdafdbc61484508f5db80989845.png",Радио Маяк
+http://194.11.28.2:8000/udp/235.82.119.102:2015
+#EXTINF:-1 group-title="Радиостанции" tvg-logo="https://www.tricolor.tv/upload/iblock/616/616df7555fa803f8d07d17647005233c.png",Радио России
+http://194.11.28.2:8000/udp/235.82.119.103:2015
